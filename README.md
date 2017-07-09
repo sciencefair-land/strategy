@@ -37,7 +37,7 @@ You might like to look at the [ScienceFair app](http://sciencefair-app.com).
 
 ### Mission statement
 
-To creating a new scientific knowledge infrastructure that makes science more fair.
+To create a new scientific knowledge infrastructure that makes science more fair.
 
 ### Values
 
