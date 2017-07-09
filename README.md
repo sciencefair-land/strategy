@@ -55,9 +55,7 @@ ScienceFair's decisions are driven by our core values: [science for the global p
 
 #### Fairness
 
-**Science should be fair <sup>◇</sup>.** We believe all people should be equally able to access and benefit from the outputs of science, and to take part in its culture and processes. The current scientific system is deeply *unfair*, systematically directing the benefits of science to those who already have the most privilege. We are committed to improving fairness in science.
-
-In particular, we place fairness at the core of our governance and technological infrastructure for discovering, accessing, using and contributing to scientific knowledge.
+**Science should be fair <sup>◇</sup>.** We believe all people should be equally able to access and benefit from the outputs of science, and to take part in its culture and processes. The current scientific system is deeply *unfair*, systematically directing the benefits of science to those who already have the most privilege. We are committed to improving fairness in science. In particular, we place fairness at the core of our governance and the design of our technological infrastructure for discovering, accessing, using and contributing to scientific knowledge.
 
 <small><sup>◇</sup> we interpret `fair` to mean the application of [social](https://en.wikipedia.org/wiki/Social_justice), [distributive](https://en.wikipedia.org/wiki/Distributive_justice), and [interactional](https://en.wikipedia.org/wiki/Interactional_justice) justice.</small>
 
@@ -65,7 +63,7 @@ In particular, we place fairness at the core of our governance and technological
 
 #### Freedom
 
-**People should be free<sup>◇</sup> to interact with science on their own terms.** This includes how they access and use knowledge, the people and organisations they interact with, and the systems, structures and tools they use. People should be protected from attempts to monitor, control or punish their lawful choices. Currently a small number of organisations dictate the terms for interacting with science. They operate inflexible platforms that serve the needs of very few, exclude many, and control access to knowledge. We are committed to building an alternative scientific knowledge infrastructure, maximising the freedom of people to control their own experience, privacy and information, and limiting the power of any entity to control or abuse any other entity.
+**People should be free<sup>◇</sup> to interact with science on their own terms.** This includes how they access and use knowledge, the people and organisations they interact with, and the systems, structures and tools they use. People should be protected from attempts to monitor, control or punish their lawful choices. sCurrently a small number of organisations dictate the terms for interacting with science. They operate inflexible platforms that serve the needs of very few, exclude many, and control access to knowledge. We are committed to building an alternative scientific knowledge infrastructure, maximising the freedom of people to control their own experience, privacy and information, and limiting the power of any entity to control or abuse any other entity.
 
 <small><sup>◇</sup> `freedom` in this context means the freedom of individuals to choose and take actions without harming others, and specifically does not include the freedom of individuals to harm others.</small>
 
