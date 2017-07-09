@@ -65,7 +65,7 @@ ScienceFair's decisions are driven by our core values: [science for the global p
 
 **People should be free<sup>◇</sup> to interact with science on their own terms.** This includes how they access and use knowledge, the people and organisations they interact with, and the systems, structures and tools they use. People should be protected from attempts to monitor, control or punish their lawful choices. Currently a small number of organisations dictate the terms for interacting with science. They operate inflexible platforms that serve the needs of very few, exclude many, and control access to knowledge. We are committed to building an alternative scientific knowledge infrastructure, maximising the freedom of people to control their own experience, privacy and information, and limiting the power of any entity to control or abuse any other entity.
 
-<small><sup>◇</sup> `freedom` in this context means the freedom of individuals to choose and take actions without harming or being harmed by others, It specifically does not include the freedom of individuals to harm others.</small>
+<small><sup>◇</sup> `freedom` in this context means the freedom of individuals to choose and take actions without harming or being harmed by others. It specifically does not include the freedom of individuals to harm others.</small>
 
 ---
 
