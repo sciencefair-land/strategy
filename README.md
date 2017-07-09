@@ -47,7 +47,7 @@ ScienceFair's decisions are driven by our core values: [science for the global p
 
 **Maximising the global public good should be the fundamental principle driving the organisation and operation of science.** Science is a global social endeavour, largely funded by the public. The knowledge generated cannot be owned<sup>◇</sup> by any individual or group, but belongs to all of humanity equally. When our other values do not present a clear path, we consider which path is more likely to maximise the benefit of science to humanity in general, without compromising our values.
 
-<small><sup>◇</sup> this refers to knowledge (facts, ideas, procedures, etc.), as opposed to literary or artistic expression related to knowledge, which are [intellectual property under international law](http://www.wipo.int/copyright).</small>
+<small><sup>◇</sup> this refers to knowledge itself (facts, ideas, procedures, etc.), as opposed to literary or artistic expression related to knowledge, which are [intellectual property under international law](http://www.wipo.int/copyright).</small>
 
 #### Fairness
 
@@ -70,7 +70,8 @@ In particular, we place fairness at the core of our governance and technological
 ### Specific goals
 
 - To design and document a robust, scalable technological infrastructure for disseminating, discovering and interacting with scientific knowledge that enshrines the values above.
-- To deliver a sustainable ecosystem of Open Source software tools implementing the designed infrastructure.
+- To build a sustainable ecosystem of Open Source software tools implementing the designed infrastructure.
+- To encourage innovation by enabling the discovery and use of open science, source and data projects that seek to improve the fairness of scientific knowledge infrastructure.
 - To encourage the growth of communities that enshrine the values above, and which eventually drive and support the infrastructure and technology envisaged.
 
 ## Deliverables and core products
