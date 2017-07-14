@@ -18,10 +18,6 @@ You might like to look at the [ScienceFair app](http://sciencefair-app.com).
 		- [Freedom](#freedom)
 		- [Openness](#openness)
 	- [Specific goals](#specific-goals)
-- [Deliverables and core products](#deliverables-and-core-products)
-	- [ScienceFair app](#sciencefair-app)
-	- [Datasources](#datasources)
-	- [Small modules software ecosystem](#small-modules-software-ecosystem)
 - [Organisation](#organisation)
 	- [Team](#team)
 	- [Governance](#governance)
@@ -30,6 +26,10 @@ You might like to look at the [ScienceFair app](http://sciencefair-app.com).
 	- [Seed](#seed)
 	- [Sustainability](#sustainability)
 	- [Transparency and openness](#transparency-and-openness)
+- [Deliverables and core products](#deliverables-and-core-products)
+	- [ScienceFair app](#sciencefair-app)
+	- [Datasources](#datasources)
+	- [Small modules software ecosystem](#small-modules-software-ecosystem)
 
 <!-- /TOC -->
 
@@ -82,14 +82,6 @@ ScienceFair's decisions are driven by our core values: [science for the global p
 - To encourage innovation by enabling the discovery and use of open science, source and data projects that seek to improve the fairness of scientific knowledge infrastructure.
 - To encourage the growth of communities that enshrine the values above, and which eventually drive and support the infrastructure and technology envisaged.
 
-## Deliverables and core products
-
-### ScienceFair app
-
-### Datasources
-
-### Small modules software ecosystem
-
 ## Organisation
 
 ### Team
@@ -105,3 +97,11 @@ ScienceFair's decisions are driven by our core values: [science for the global p
 ### Sustainability
 
 ### Transparency and openness
+
+## Deliverables and core products
+
+### ScienceFair app
+
+### Datasources
+
+### Small modules software ecosystem
