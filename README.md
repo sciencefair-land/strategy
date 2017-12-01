@@ -30,7 +30,9 @@ You might like to look at the [ScienceFair app](http://sciencefair-app.com).
 	- [Seed](#seed)
 	- [Sustainability](#sustainability)
 	- [Transparency and openness](#transparency-and-openness)
-
+- [In Progress Documents](#in-progress)
+	- Two Page Overview and Pitch
+	- 
 <!-- /TOC -->
 
 ## Core mission and values
@@ -105,3 +107,14 @@ ScienceFair's decisions are driven by our core values: [science for the global p
 ### Sustainability
 
 ### Transparency and openness
+
+### In Progress Documents - shared only with team
+- [Roadmap](https://docs.google.com/document/d/1AOy8_rjKNzW7xAmkkRleiA46IrPlguwKrw8nUPfPet8/edit#heading=h.3nct6cqlu87g)
+- [Two Page Overview and Pitch](https://docs.google.com/document/d/189oq-bu_NWzDqCmo0iuA0ElvT6BR2aVgmvHWUZi-JT8/edit) - edited by DCR.
+- [Draft slide deck](https://docs.google.com/presentation/d/1cdySLS8hY_IitVIn25teP6j_m2jQ1MAVhPZWxq8wN7M/edit#slide=id.p10) - from Rik and Jelena's meeting, not edited yet.
+- [Marketing Plan](https://docs.google.com/document/d/1EQYIyon0o_SgMMFJqB96r7Ahcx1PhtgYjdGUWXP72ws/edit) - from Rik and Jelena's meeting, not edited yet. 
+- [Personas](https://docs.google.com/document/d/1my8ButlTiLYOmSw88coy-1I-IvGhJTIUrHnH2Yd81WI/edit)
+- [All docs](https://drive.google.com/drive/u/0/folders/0BwzRIYyom644UU52TXcxUzNIbXM)
+
+
+
