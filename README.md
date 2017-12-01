@@ -31,7 +31,12 @@ You might like to look at the [ScienceFair app](http://sciencefair-app.com).
 	- [Sustainability](#sustainability)
 	- [Transparency and openness](#transparency-and-openness)
 - [In Progress Documents](#in-progress)
-	- Two Page Overview and Pitch
+	- [Roadmap](#roadmap)
+	- [Two Page Overview and Pitch](#two-pager)
+	- [Draft slide deck](#slide-deck)
+	- [Marketing Plan](#marketing) 
+	- [Personas](#personas)
+	- [All docs](#folder)
 	- 
 <!-- /TOC -->
 
