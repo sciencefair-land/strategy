@@ -11,6 +11,9 @@ Science moves fast. At ScienceFair, we believe published information should be:
 - Supporting reproducible research standards with rich metadata
 - Dynamic, interactive, and editable
 
+### The Vision
+![ScienceFair Flow](https://github.com/sciencefair-land/strategy/blob/master/img/ScienceFair-flow.png)
+
 
 ### Paper reading environment
 [screenshot]
